@@ -1,10 +1,10 @@
 
 <p align="center">
-<img src="docs/icon/icon2.gif" width="100%">
+<img src="https://media.githubusercontent.com/media/Sunwood-ai-labs/GIFactory/main/docs/icon/icon2.gif" width="100%">
 <br>
 <h1 align="center">GIFactory</h1>
 <h2 align="center">
-  ～AI Harmony, Infinite Possibilities～
+  ～Where GIFs come to life～
 
 [![GIFactory - Sunwood-ai-labs](https://img.shields.io/static/v1?label=GIFactory&message=Sunwood-ai-labs&color=blue&logo=github)](https://github.com/GIFactory/Sunwood-ai-labs "Go to GitHub repo")
 [![stars - Sunwood-ai-labs](https://img.shields.io/github/stars/GIFactory/Sunwood-ai-labs?style=social)](https://github.com/GIFactory/Sunwood-ai-labs)
