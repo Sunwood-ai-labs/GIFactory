@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://media.githubusercontent.com/media/Sunwood-ai-labs/GIFactory/main/docs/icon/icon2.gif" width="100%">
+<img src="https://media.githubusercontent.com/media/Sunwood-ai-labs/GIFactory/main/docs/icon/icon3.gif" width="100%">
 <br>
 <h1 align="center">GIFactory</h1>
 <h2 align="center">
