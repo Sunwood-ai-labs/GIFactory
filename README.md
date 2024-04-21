@@ -14,12 +14,17 @@
 [![GitHub Release](https://img.shields.io/github/v/release/Sunwood-ai-labs/HarmonAI?sort=date&color=red)](https://github.com/Sunwood-ai-labs/HarmonAI)
 [![GitHub Tag](https://img.shields.io/github/v/tag/Sunwood-ai-labs/HarmonAI?color=orange)](https://github.com/Sunwood-ai-labs/HarmonAI)
 
+
+
   <br>
 
 </h2>
 
-
 </p>
+
+>[!IMPORTANT]
+>このリポジトリは[SourceSage](https://github.com/Sunwood-ai-labs/SourceSage)を活用しており、リリースノートやREADME、コミットメッセージの9割は[SourceSage](https://github.com/Sunwood-ai-labs/SourceSage) ＋ [claude.ai](https://claude.ai/)で生成しています。
+
 
 
 ## Introduction
