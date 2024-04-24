@@ -30,6 +30,6 @@ def convert_video_to_gif(input_file, output_file, fps=10, program='ImageMagick',
 
 if __name__ == '__main__':
     # 使用例
-    input_file = 'example/cat2.mp4'
-    output_file = 'example/cat2.gif'
+    input_file = 'example/ship2.mp4'
+    output_file = 'example/ship2.gif'
     convert_video_to_gif(input_file, output_file, fps=12, program='imageio', opt='OptimizeTransparency', fuzz=10)
