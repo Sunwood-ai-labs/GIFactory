@@ -1,3 +1,13 @@
+---
+title: GIFactory
+emoji: 🏢
+colorFrom: red
+colorTo: gray
+sdk: docker
+pinned: false
+license: mit
+---
+
 <p align="center">
 <img src="https://media.githubusercontent.com/media/Sunwood-ai-labs/GIFactory/main/docs/icon/icon3.gif" width="100%">
 <br>
