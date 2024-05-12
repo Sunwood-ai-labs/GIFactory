@@ -9,7 +9,7 @@ license: mit
 ---
 
 <p align="center">
-<img src="https://media.githubusercontent.com/media/Sunwood-ai-labs/GIFactory/main/docs/icon/icon3.gif" width="100%">
+<img src="https://huggingface.co/datasets/MakiAi/IconAssets/resolve/main/GIFactory_icon3.gif?download=true" width="100%">
 <br>
 <h1 align="center">GIFactory</h1>
 <h2 align="center">
