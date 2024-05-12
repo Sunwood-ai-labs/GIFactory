@@ -162,3 +162,6 @@ cython_debug/
 SourceSageAssets
 *.gif
 *.mp4
+
+__gitpython2
+__gitpython
